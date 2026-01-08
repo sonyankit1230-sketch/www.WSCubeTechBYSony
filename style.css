@@ -6,6 +6,9 @@
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
 }
+body{
+    background-color: black;
+} 
 
 header {
     width: 100%;
@@ -963,3 +966,4 @@ background: linear-gradient(to left, #2699FB, #0ACEFE);
     color: white;
 
 }
+
