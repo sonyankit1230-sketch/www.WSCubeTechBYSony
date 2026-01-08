@@ -6,17 +6,13 @@
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
 }
-body{
-    background-color: black;
-} 
-
 header {
     width: 100%;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;   
     position: sticky;
     left: 0;
     top: 0;
-    background: black;
+    background: white;
     z-index:999;
   
 }
@@ -966,4 +962,5 @@ background: linear-gradient(to left, #2699FB, #0ACEFE);
     color: white;
 
 }
+
 
