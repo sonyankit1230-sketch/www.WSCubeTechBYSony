@@ -6,6 +6,9 @@
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
 }
+body{
+    backend-color:"blue";
+}
 
 header {
     width: 100%;
@@ -962,4 +965,5 @@ background: linear-gradient(to left, #2699FB, #0ACEFE);
 .section-10 div a{
     color: white;
 }
+
 
